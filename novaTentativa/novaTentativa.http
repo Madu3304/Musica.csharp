@@ -1,0 +1,6 @@
+@novaTentativa_HostAddress = http://localhost:5083
+
+GET {{novaTentativa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
